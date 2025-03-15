@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+
+}
+
+
+nav a {
+    margin-left: 90px;
+    margin-right: 40px;
+    text-decoration: none;
+    border-bottom: 5px solid black;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+main p {
+    border:solid 3px black;
+    border-radius: 10px;
+}
+
+main img {
+    border-left: 10px dotted black;
+    margin-left: 50px;
+}
+
+
